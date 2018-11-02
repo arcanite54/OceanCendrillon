@@ -28,5 +28,7 @@ windows10
  
 [煉獄庭園](http://www.rengoku-teien.com/) 様 
  
-本ゲームはDXライブラリを使用しています。 
+本ゲームはDXライブラリを使用しています。
+
+また、本ゲーム制作に当たって[Gummy](https://github.com/easychoco/Frameworks)様のフレームワークをお借りしました。
 
