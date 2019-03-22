@@ -102,7 +102,7 @@ void Player::update() {
 
 void Player::draw() {
 
-	SetCameraPositionAndTarget_UpVecY(VGet(x, y + 40, z - 40), VGet(x, y, z));
+	SetCameraPositionAndTarget_UpVecY(VGet(x, y + 80, z - 80), VGet(x, y, z));
 
 	// 指定位置にモデルを配置
 	MV1SetPosition(ModelHandle_player, VGet(x, y, z));
